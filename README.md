@@ -7,8 +7,13 @@ This is the place where i opensource stuff and break things. :smile:
 
 - 🔭 I’m currently working on a few flutter projects.
 - 👯 I’m looking to collaborate on *anything impressive!*
-- 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about *Flutter, Android*
 - 📫 How to reach me: ragulsarma@gmail.com
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: The letter "a" doesn't appear in any number :writing_hand: written out until "one thousand"! :grinning:
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragulsarma&show_icons=true&locale=en&layout=compact" alt="ragulsarma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragulsarma&show_icons=true&locale=en" alt="ragulsarma" /></p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragulsarma&" alt="ragulsarma" /></p>
