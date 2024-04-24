@@ -7,7 +7,7 @@ This is the place where i opensource stuff and break things. :smile:
 
 - 🔭 I’m currently working on a few flutter projects.
 - 👯 I’m looking to collaborate on *anything impressive!*
-- 💬 Ask me about *Flutter, Android*
+- 💬 Ask me about *Flutter, Android, IOS*
 - 📫 How to reach me: ragulsarma@gmail.com
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: The letter "a" doesn't appear in any number :writing_hand: written out until "one thousand"! :grinning:
