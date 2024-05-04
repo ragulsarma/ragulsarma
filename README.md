@@ -9,7 +9,6 @@ This is the place where i opensource stuff and break things. :smile:
 - 👯 I’m looking to collaborate on *anything impressive!*
 - 💬 Ask me about *Flutter, Android, IOS*
 - 📫 How to reach me: ragulsarma@gmail.com
-<!-- - 😄 Pronouns: he/his/him -->
 - ⚡ Fun fact: The letter "a" doesn't appear in any number :writing_hand: written out until "one thousand"! :grinning:
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragulsarma&show_icons=true&locale=en&layout=compact" alt="ragulsarma" /></p>
